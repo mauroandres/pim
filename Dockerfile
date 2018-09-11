@@ -1,6 +1,8 @@
 FROM akeneo/fpm:php-7.1
 
-ENTRYPOINT ["echo", "OVERRIDE ENTRYPOINT"]
+ENTRYPOINT []
+
+CMD []
 
 WORKDIR /srv/pim
 
