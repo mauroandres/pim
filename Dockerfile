@@ -4,6 +4,4 @@ ENTRYPOINT []
 
 USER docker
 
-RUN chown -R docker:docker /srv/pim
-
 WORKDIR /srv/pim
