@@ -1,4 +1,4 @@
-FROM akeneo/fpm:php-7.1
+FROM akeneo:apache-php:latest
 
 ENTRYPOINT []
 
