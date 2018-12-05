@@ -1,4 +1,4 @@
-FROM akeneo:apache-php:latest
+FROM akeneo/apache-php:latest
 
 ENTRYPOINT []
 
